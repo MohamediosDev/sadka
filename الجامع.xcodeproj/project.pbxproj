@@ -7,15 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D93DE4B024DB721100C3DEED /* passData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93DE4AF24DB721100C3DEED /* passData.swift */; };
+		D93DE4B224DB724D00C3DEED /* passDataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93DE4B124DB724D00C3DEED /* passDataVC.swift */; };
+		D94CFD8024E00907003DA377 /* Quran.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94CFD7F24E00907003DA377 /* Quran.swift */; };
+		D94CFD8224E0120A003DA377 /* quranloder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94CFD8124E0120A003DA377 /* quranloder.swift */; };
+		D94CFD8424E013CA003DA377 /* QuranVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94CFD8324E013CA003DA377 /* QuranVc.swift */; };
+		D94CFD8624E013E7003DA377 /* QuranCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94CFD8524E013E7003DA377 /* QuranCell.swift */; };
+		D94CFD8A24E02C99003DA377 /* qk.json in Resources */ = {isa = PBXBuildFile; fileRef = D94CFD8924E02C99003DA377 /* qk.json */; };
+		D970527324DB5E1B00507F54 /* AzkarVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = D970527224DB5E1B00507F54 /* AzkarVc.swift */; };
+		D970527524DB600C00507F54 /* AzkarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D970527424DB600C00507F54 /* AzkarCell.swift */; };
 		D976CBA124D049D700706B8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBA024D049D700706B8E /* AppDelegate.swift */; };
 		D976CBA324D049D700706B8E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBA224D049D700706B8E /* SceneDelegate.swift */; };
 		D976CBA524D049D700706B8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBA424D049D700706B8E /* ViewController.swift */; };
 		D976CBA824D049D700706B8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D976CBA624D049D700706B8E /* Main.storyboard */; };
 		D976CBAA24D049DF00706B8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D976CBA924D049DF00706B8E /* Assets.xcassets */; };
 		D976CBAD24D049DF00706B8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D976CBAB24D049DF00706B8E /* LaunchScreen.storyboard */; };
+		D976CBB624D04A3600706B8E /* azkar.json in Resources */ = {isa = PBXBuildFile; fileRef = D976CBB424D04A3600706B8E /* azkar.json */; };
+		D976CBB724D04A3600706B8E /* fakehadith.json in Resources */ = {isa = PBXBuildFile; fileRef = D976CBB524D04A3600706B8E /* fakehadith.json */; };
+		D976CBBB24D04D3C00706B8E /* Azkar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBB924D04D3C00706B8E /* Azkar.swift */; };
+		D976CBC124D04E5600706B8E /*  Dataloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBC024D04E5600706B8E /*  Dataloader.swift */; };
+		D976CBC424D0651300706B8E /* shows.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBC224D0651300706B8E /* shows.swift */; };
+		D976CBC524D0651300706B8E /* shows.xib in Resources */ = {isa = PBXBuildFile; fileRef = D976CBC324D0651300706B8E /* shows.xib */; };
+		D976CBC724D0824500706B8E /* Tasbih.swift in Sources */ = {isa = PBXBuildFile; fileRef = D976CBC624D0824500706B8E /* Tasbih.swift */; };
+		D9B3C79A24DC510600232254 /* FakedHadith.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B3C79924DC510600232254 /* FakedHadith.swift */; };
+		D9B3C79C24DC522300232254 /* hadithloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B3C79B24DC522300232254 /* hadithloader.swift */; };
+		D9B3C79E24DC543200232254 /* hadithFake.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B3C79D24DC543200232254 /* hadithFake.swift */; };
+		D9B3C7A024DC545400232254 /* hatithfackecell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B3C79F24DC545400232254 /* hatithfackecell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D93DE4AF24DB721100C3DEED /* passData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = passData.swift; sourceTree = "<group>"; };
+		D93DE4B124DB724D00C3DEED /* passDataVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = passDataVC.swift; sourceTree = "<group>"; };
+		D94CFD7F24E00907003DA377 /* Quran.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quran.swift; sourceTree = "<group>"; };
+		D94CFD8124E0120A003DA377 /* quranloder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quranloder.swift; sourceTree = "<group>"; };
+		D94CFD8324E013CA003DA377 /* QuranVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuranVc.swift; sourceTree = "<group>"; };
+		D94CFD8524E013E7003DA377 /* QuranCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuranCell.swift; sourceTree = "<group>"; };
+		D94CFD8924E02C99003DA377 /* qk.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = qk.json; sourceTree = "<group>"; };
+		D970527224DB5E1B00507F54 /* AzkarVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzkarVc.swift; sourceTree = "<group>"; };
+		D970527424DB600C00507F54 /* AzkarCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzkarCell.swift; sourceTree = "<group>"; };
 		D976CB9D24D049D700706B8E /* الجامع.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "الجامع.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D976CBA024D049D700706B8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D976CBA224D049D700706B8E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +53,17 @@
 		D976CBA924D049DF00706B8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D976CBAC24D049DF00706B8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D976CBAE24D049DF00706B8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D976CBB424D04A3600706B8E /* azkar.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = azkar.json; sourceTree = "<group>"; };
+		D976CBB524D04A3600706B8E /* fakehadith.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fakehadith.json; sourceTree = "<group>"; };
+		D976CBB924D04D3C00706B8E /* Azkar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Azkar.swift; sourceTree = "<group>"; };
+		D976CBC024D04E5600706B8E /*  Dataloader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Dataloader.swift"; sourceTree = "<group>"; };
+		D976CBC224D0651300706B8E /* shows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shows.swift; sourceTree = "<group>"; };
+		D976CBC324D0651300706B8E /* shows.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = shows.xib; sourceTree = "<group>"; };
+		D976CBC624D0824500706B8E /* Tasbih.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tasbih.swift; sourceTree = "<group>"; };
+		D9B3C79924DC510600232254 /* FakedHadith.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FakedHadith.swift; sourceTree = "<group>"; };
+		D9B3C79B24DC522300232254 /* hadithloader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hadithloader.swift; sourceTree = "<group>"; };
+		D9B3C79D24DC543200232254 /* hadithFake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hadithFake.swift; sourceTree = "<group>"; };
+		D9B3C79F24DC545400232254 /* hatithfackecell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hatithfackecell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +98,65 @@
 			children = (
 				D976CBA024D049D700706B8E /* AppDelegate.swift */,
 				D976CBA224D049D700706B8E /* SceneDelegate.swift */,
-				D976CBA424D049D700706B8E /* ViewController.swift */,
-				D976CBA624D049D700706B8E /* Main.storyboard */,
+				D976CBBD24D04D4200706B8E /* Model */,
+				D976CBBE24D04D5600706B8E /* View */,
+				D976CBBF24D04D9B00706B8E /* controller */,
+				D976CBB824D04A4100706B8E /* JSON Files */,
 				D976CBA924D049DF00706B8E /* Assets.xcassets */,
 				D976CBAB24D049DF00706B8E /* LaunchScreen.storyboard */,
 				D976CBAE24D049DF00706B8E /* Info.plist */,
 			);
 			path = "الجامع";
+			sourceTree = "<group>";
+		};
+		D976CBB824D04A4100706B8E /* JSON Files */ = {
+			isa = PBXGroup;
+			children = (
+				D976CBB424D04A3600706B8E /* azkar.json */,
+				D976CBB524D04A3600706B8E /* fakehadith.json */,
+				D94CFD8924E02C99003DA377 /* qk.json */,
+			);
+			path = "JSON Files";
+			sourceTree = "<group>";
+		};
+		D976CBBD24D04D4200706B8E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D976CBB924D04D3C00706B8E /* Azkar.swift */,
+				D976CBC024D04E5600706B8E /*  Dataloader.swift */,
+				D9B3C79924DC510600232254 /* FakedHadith.swift */,
+				D9B3C79B24DC522300232254 /* hadithloader.swift */,
+				D94CFD7F24E00907003DA377 /* Quran.swift */,
+				D94CFD8124E0120A003DA377 /* quranloder.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D976CBBE24D04D5600706B8E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D976CBA624D049D700706B8E /* Main.storyboard */,
+				D976CBC324D0651300706B8E /* shows.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D976CBBF24D04D9B00706B8E /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				D976CBA424D049D700706B8E /* ViewController.swift */,
+				D976CBC224D0651300706B8E /* shows.swift */,
+				D976CBC624D0824500706B8E /* Tasbih.swift */,
+				D970527224DB5E1B00507F54 /* AzkarVc.swift */,
+				D970527424DB600C00507F54 /* AzkarCell.swift */,
+				D93DE4AF24DB721100C3DEED /* passData.swift */,
+				D93DE4B124DB724D00C3DEED /* passDataVC.swift */,
+				D9B3C79D24DC543200232254 /* hadithFake.swift */,
+				D9B3C79F24DC545400232254 /* hatithfackecell.swift */,
+				D94CFD8324E013CA003DA377 /* QuranVc.swift */,
+				D94CFD8524E013E7003DA377 /* QuranCell.swift */,
+			);
+			path = controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +219,11 @@
 			files = (
 				D976CBAD24D049DF00706B8E /* LaunchScreen.storyboard in Resources */,
 				D976CBAA24D049DF00706B8E /* Assets.xcassets in Resources */,
+				D94CFD8A24E02C99003DA377 /* qk.json in Resources */,
 				D976CBA824D049D700706B8E /* Main.storyboard in Resources */,
+				D976CBB724D04A3600706B8E /* fakehadith.json in Resources */,
+				D976CBC524D0651300706B8E /* shows.xib in Resources */,
+				D976CBB624D04A3600706B8E /* azkar.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +234,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D94CFD8424E013CA003DA377 /* QuranVc.swift in Sources */,
+				D970527524DB600C00507F54 /* AzkarCell.swift in Sources */,
 				D976CBA524D049D700706B8E /* ViewController.swift in Sources */,
+				D94CFD8224E0120A003DA377 /* quranloder.swift in Sources */,
+				D9B3C79E24DC543200232254 /* hadithFake.swift in Sources */,
 				D976CBA124D049D700706B8E /* AppDelegate.swift in Sources */,
+				D970527324DB5E1B00507F54 /* AzkarVc.swift in Sources */,
+				D9B3C7A024DC545400232254 /* hatithfackecell.swift in Sources */,
 				D976CBA324D049D700706B8E /* SceneDelegate.swift in Sources */,
+				D9B3C79A24DC510600232254 /* FakedHadith.swift in Sources */,
+				D976CBBB24D04D3C00706B8E /* Azkar.swift in Sources */,
+				D93DE4B224DB724D00C3DEED /* passDataVC.swift in Sources */,
+				D93DE4B024DB721100C3DEED /* passData.swift in Sources */,
+				D976CBC424D0651300706B8E /* shows.swift in Sources */,
+				D976CBC124D04E5600706B8E /*  Dataloader.swift in Sources */,
+				D94CFD8024E00907003DA377 /* Quran.swift in Sources */,
+				D94CFD8624E013E7003DA377 /* QuranCell.swift in Sources */,
+				D976CBC724D0824500706B8E /* Tasbih.swift in Sources */,
+				D9B3C79C24DC522300232254 /* hadithloader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
